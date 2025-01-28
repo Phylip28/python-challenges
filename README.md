@@ -35,4 +35,4 @@ If you don't have Python installed yet, you can download it from the official we
 To run an exercise, navigate to the directory containing the exercise and use the following command in your terminal:
 
 ```bash
-python pyramid_height_calculator.py
+python solution.py
